@@ -1,1 +1,5 @@
 theme: jekyll-theme-slate
+
+# 自动生成sitemap
+sitemap:
+path: sitemap.xml
