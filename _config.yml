@@ -2,4 +2,4 @@ theme: jekyll-theme-slate
 
 # 自动生成sitemap
 sitemap:
-path: sitemap.XML
+path: sitemap.xml
